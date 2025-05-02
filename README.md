@@ -60,3 +60,11 @@ Includes:
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/road-accident-analysis.git
+
+
+🤝 Contact
+Feel free to reach out for feedback or collaboration:
+
+Name: [Aman Kashyap]
+LinkedIn: [https://www.linkedin.com/in/aman-kashyap-8a2340237/]
+Email: [iak72172@gmail.com] 
