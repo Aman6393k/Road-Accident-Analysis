@@ -55,6 +55,14 @@ Includes:
 
 ---
 
+## 🚀 Live Dashboard
+
+Experience the interactive dashboard here:
+
+👉 [Launch Dashboard](https://mybinder.org/v2/gh/Aman6393k/Road-Accident-Analysis/HEAD?urlpath=voila/render/Road_Accident_Analysis.ipynb)
+
+
+
 ## 📥 How to Run
 
 1. Clone the repo:
